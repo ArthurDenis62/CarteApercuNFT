@@ -1,3 +1,4 @@
+@@ -0,0 +1,23 @@
 * {
     margin: 0;
     padding: 0;
@@ -14,4 +15,10 @@
 
 p {
     font-size: 18px;
+}
+
+.cards {
+    width: 350px;
+    height: 600px;
+    background-color: red;
 }
