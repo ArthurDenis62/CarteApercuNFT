@@ -16,12 +16,10 @@
     --color-white: hsl(0, 0%, 100%);
 }
 
-p {
-    font-size: 18px;
+body {
+    font-family: Outfit;
 }
 
-.cards {
-    width: 350px;
-    height: 600px;
-    background-color: red;
+p {
+    font-size: 18px;
 }
